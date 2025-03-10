@@ -1,1 +1,1 @@
-# databricks-traning
+# databricks-training
